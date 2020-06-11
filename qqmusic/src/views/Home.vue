@@ -1,11 +1,28 @@
 <template>
   <div class="home">
-    <h1>home page--{{$store.state.search}}</h1>
+    <kSwiper></kSwiper>
+    <kGrid></kGrid>
+    
+    <kEmpty></kEmpty>
   </div>
 </template>
 
-<script>
+<script  type="text/javascript">
+  import kSwiper from '../components/kSwiper.vue'
+  import kGrid from '../components/kGrid.vue'
+  
+  import kEmpty from '../components/kEmpty.vue'
+  export default {
+    data() {
+      return {
 
+      }
+    },
+    components: {
+      kSwiper,
+      kGrid,
+      kEmpty
+    },
 
-export default {}
+  }
 </script>

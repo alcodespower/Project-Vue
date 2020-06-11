@@ -7,9 +7,9 @@
                      text="任然" />
       <van-grid-item icon="https://y.gtimg.cn/music/photo_new/T001R150x150M000001fNHEf1SFEFN.jpg?max_age=2592000"
                      text="G.E.M. 邓紫棋" />
-      <van-grid-item icon="https://y.gtimg.cn/music/photo_new/T001R150x150M000002J4UUk29y8BY.jpg?max_age=2592000"
+      <van-grid-item icon="https://y.gtimg.cn/music/photo_new/T001R150x150M000000aHmbL2aPXWH.jpg?max_age=2592000"
                      text="李荣浩" />
-      <van-grid-item icon="https://y.gtimg.cn/music/photo_new/T001R150x150M0000025NhlN2yWrP4.jpg?max_age=2592000"
+      <van-grid-item icon="https://y.gtimg.cn/music/photo_new/T001R150x150M000002J4UUk29y8BY.jpg?max_age=2592000"
                      text="薛之谦" />
       <van-grid-item icon="https://y.gtimg.cn/music/photo_new/T001R150x150M000004dr7ZS36C2B1.jpg?max_age=2592000"
                      text="梦然" />
